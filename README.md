@@ -8,4 +8,5 @@ There seems to be no one-stop resource available to easily find a list of basic 
 I thought I would share this list I made of English cybersecurity terms with their French translation. It has around 345 entry-level terms from: IT, networking, access control, cryptography, attack techniques and procedures, information security, incident response, internet protocols, etc. 
 
 The .xls, .pdf and .ipynb files are available at https://github.com/celsol-fuentes/EN-FR_cyber_terms.
-Feel free to fork this repository, add terms or even languages! 
+
+Feel free to fork this repository, add terms or even languages!
