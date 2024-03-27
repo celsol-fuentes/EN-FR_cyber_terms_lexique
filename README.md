@@ -10,7 +10,7 @@ The .xls, .pdf and .ipynb files are available at https://github.com/celsol-fuent
 Feel free to fork this repository, add terms or even languages!
 
 
-# FR_EN_lexique_cyber
+# FR-EN_lexique_cyber
 <h3>Un coup de pouce pour améliorer votre vocabulaire en cybersécurité ?</h3>
 
 J’aimerais partager une ressource que j’ai créée. Il s’agit d’une compilation d’environ 345 termes de base provenant du domaine de la cybersécurité, avec leur traduction en anglais.
