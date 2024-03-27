@@ -1,7 +1,5 @@
 # EN-FR_cyber_terms
-<h3>English-French cybersecurity terms</h3>
-
-Do you need to improve your Québécois French cybersecurity vocabulary?  
+<h3>Do you need to improve your Québécois French cybersecurity vocabulary?</h3>
 
 There seems to be no one-stop resource available to easily find a list of basic cybersecurity terms in both English and French. Either the resources I found were only in one language, were too specific to one domain (ex. privacy) or were lacking terms that I considered essential. 
 
