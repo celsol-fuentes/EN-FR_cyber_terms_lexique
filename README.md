@@ -1,5 +1,5 @@
 # EN-FR_cyber_terms
-<h3>English-French cybersecurity terms</h3>h3>
+<h3>English-French cybersecurity terms</h3>
 
 Do you need to improve your Québécois French cybersecurity vocabulary?  
 
