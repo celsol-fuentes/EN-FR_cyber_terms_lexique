@@ -10,3 +10,15 @@ I thought I'd share this list I made of English cybersecurity terms with their F
 The .xls, .pdf and .ipynb files are available at https://github.com/celsol-fuentes/EN-FR_cyber_terms_lexique.
 
 Feel free to fork this repository, add terms or even languages!
+
+
+# FR_EN_lexique_cyber
+<h3>Un coup de pouce pour améliorer votre vocabulaire en cybersécurité ?</h3>
+
+J’aimerais partager une ressource que j’ai créée. Il s’agit d’une compilation d’environ 345 termes de base provenant du domaine de la cybersécurité, avec leur traduction en anglais.
+
+Dans la section “References” (en anglais), je fournis les ressources linguistiques consultées lors de ma recherche. N’hésitez pas à partager vos ressources qui n’y figurent pas. 
+
+Les fichiers .xls, .pdf et .ipynb sont disponibles sur la page Github  https://github.com/celsol-fuentes/EN-FR_cyber_terms_lexique.
+
+Dupliquer (fork) le dépôt (repository), ajouter des termes ou même des langues !
