@@ -3,13 +3,14 @@
 
 J’aimerais partager une ressource que j’ai créée. Il s’agit d’une compilation d’environ 345 termes de base provenant du domaine de la cybersécurité avec leur traduction.
 
-- Une fois que la dataframe FR-EN est en place, insérez le terme en français pour trouver la traduction en anglais
+- Une fois que le tableau de données FR-EN est en place, insérez le terme en français pour trouver la traduction en anglais
 - Pour faire une recherche EN-FR, consulter la section **English -> Français**
 - Dans la section “Références / References”, je fournis les ressources linguistiques consultées lors de ma recherche
 - N’hésitez pas à partager vos ressources qui n’y figurent pas
 - Les fichiers .xls, .pdf et .ipynb sont disponibles sur la page Github  https://github.com/celsol-fuentes/EN-FR_cyber_terms_lexique
 
 Dupliquer le dépôt, ajouter des termes ou même des langues !
+
 <h2><strong>English -> Français</strong></h2>
 <h3>Do you need help to improve your Québécois French cybersecurity vocabulary?</h3>
 
